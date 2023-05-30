@@ -1,0 +1,31 @@
+.login, .password{
+    border-radius: 10px;
+}
+.submit{
+    border-radius: 10px;
+    background-color: green;
+}
+
+
+html{
+    font : white;
+}
+
+body{
+    background-color: lightblue;
+    font-family: 'Kanit';
+       
+}
+p,h2,h1,h3{
+    color: white;
+}
+h4,h5,h6{
+    color : white;
+}
+article{
+    color: white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://www.pngwing.com/pt/free-png-ndeos');
+@import url('https://www.pngwing.com/pt/free-png-ymiyq');
